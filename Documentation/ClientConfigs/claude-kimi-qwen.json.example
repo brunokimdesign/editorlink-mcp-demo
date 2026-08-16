@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "editorlink": {
+      "command": "python",
+      "args": [
+        "C:/Path/To/Project/Plugins/EditorLinkMCPDemo/Content/Python/editorlink_mcp_demo_server.py",
+        "--project",
+        "C:/Path/To/Project"
+      ]
+    }
+  }
+}
+
