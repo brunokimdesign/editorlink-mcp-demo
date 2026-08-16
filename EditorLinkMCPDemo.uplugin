@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 5,
+	"VersionName": "0.1.4-demo",
+	"FriendlyName": "EditorLink MCP Demo",
+	"Description": "Provider-neutral Model Context Protocol bridge for safe Unreal Editor inspection, automation, Blueprint editing, animation workflows, and verification.",
+	"Category": "Editor",
+	"CreatedBy": "Bruno Kim",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "EditorLinkMCPDemoRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "EditorLinkMCPDemo",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
+
